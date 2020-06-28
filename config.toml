@@ -1,0 +1,4 @@
+baseURL = "https://totorow.xyz"
+languageCode = "en-us"
+title = "Tw's blog"
+theme = "hugo-theme-tokiwa"

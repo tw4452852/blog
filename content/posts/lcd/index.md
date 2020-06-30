@@ -12,7 +12,7 @@ tags = ["linux", "kernel", "driver"]
 
 ### 时序
 
-{{< img "*timing.png" >}}
+![timing](timing.png)
 
 #### 像素
 
@@ -50,7 +50,7 @@ LCD驱动电路准备好接收,我们在把一行的数据发下去(这个等待
 
 首先来看下帧缓冲设备驱动在Linux子系统中的结构:
 
-{{< img "*framebuffer.png" >}}
+![framebuffer](framebuffer.png)
 
 我们从上面这幅图看,帧缓冲设备在Linux中也可以看做是一个完整的子系统,
 大体由fbmem.c和xxxfb.c组成.向上给应用程序提供完善的设备文件操作接口(即对FrameBuffer设备进行read、write、ioctl等操作),

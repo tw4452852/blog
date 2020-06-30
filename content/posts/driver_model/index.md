@@ -108,7 +108,7 @@ struct kset_uevent_ops {
 
 `kset` 和 其中的 `kobject` 的关系如下图所示:
 
-{{< img "*kset.png" >}}
+![kset](kset.png)
 
 ## 总线,设备,驱动
 

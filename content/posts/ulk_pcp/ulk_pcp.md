@@ -96,8 +96,8 @@ static int rmqueue_bulk(struct zone *zone, unsigned int order,
 
 注意,这里的 `order` 为0,也是说每次申请一个物理页,
 而 `count` 则为 `pcp->batch` . `__rmqueue`
-内部的流程可以参见[[/post?q=Page_frame_management][上一篇文章]]
-的分配章节.
+内部的流程可以参见[上一篇文章的分配章节]({{< ref "ulk_pf#分配" >}})
+.
 
 ## 释放
 
@@ -156,7 +156,7 @@ do {
 以及归还的物理页个数( `batch_free` ),
 下面就是将其返回给 `buddy` 系统了,
 这里的操作同释放物理页类型
-(详见[[/post?q=Page_frame_management][上一篇文章]]的释放章节).
+(详见[上一篇文章的释放章节]({{< ref "ulk_pf#释放" >}})).
 
 ```
 do {

@@ -1,0 +1,5 @@
+blog.totorow.xyz {
+  root public
+  encode gzip
+  file_server
+}

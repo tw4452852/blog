@@ -1,8 +1,28 @@
-baseURL = "https://totorow.xyz"
+baseURL = "https://blog.totorow.xyz/"
 languageCode = "en-us"
 title = "Tw's blog"
+copyright = "Copyright © 2012–2020"
 theme = "hugo-theme-tokiwa"
+disqusShortname = "totorow"
+googleAnalytics = "UA-49335644-1"
+
+[menu]
+# Shown in the side menu.
+  [[menu.main]]
+    name = "Posts"
+    weight = 1
+    url = "/posts/"
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
 
 [params]
 useChineseFonts = true # for font Noto Serif etc.
 bannerFont = "fonts/Go-Regular" # custom your own font for the title.
+favicon = "/images/favicon.ico"
+
+[social]
+twitter="https://twitter.com/Totoroow"
+github="https://github.com/tw4452852"
+linkedin="https://www.linkedin.com/in/wei-tan-39510471"

@@ -9,7 +9,7 @@ googleAnalytics = "UA-49335644-1"
 [menu]
 # Shown in the side menu.
   [[menu.main]]
-    name = "Posts"
+    name = "Archive"
     weight = 1
     url = "/posts/"
   [[menu.main]]

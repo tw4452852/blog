@@ -2,6 +2,7 @@
 title = "x86 interrupt initialization"
 date = "2013-09-09T22:00:00"
 tags = ["intel"]
+categories = ["learning"]
 +++
 
 这几天在bochs上动手实践了一下中断初始化,

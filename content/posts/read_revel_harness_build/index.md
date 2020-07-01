@@ -2,6 +2,7 @@
 title = "Read Revel - Harness(build)"
 date = "2012-12-23T22:00:00"
 tags = ["go"]
+categories = ["learning"]
 +++
 
 After getting the source code information, we can build the code to generate the binary file.

@@ -2,6 +2,7 @@
 title = "Read Go - Channel"
 date = "2013-06-05T12:00:00"
 tags = [ "go" ]
+categories = ["learning"]
 +++
 
 今天主要说说Go中channel的实现机制,其中主要有以下几个部分:

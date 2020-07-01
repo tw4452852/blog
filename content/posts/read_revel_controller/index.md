@@ -2,6 +2,7 @@
 title = "Read Revel - Controller"
 date = "2012-12-10T21:00:00"
 tags = ["go"]
+categories = ["learning"]
 +++
 
 The Revel makes it easy to build web applications using the Model-View-Controller(MVC) pattern by

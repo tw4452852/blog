@@ -2,6 +2,7 @@
 title = "A bug related with Android pthread mutex"
 date = "2016-09-14T14:00:00"
 tags = ["android", "pthread"]
+categories = ["work"]
 +++
 
 ## 概述

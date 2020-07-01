@@ -2,6 +2,7 @@
 title = "Read Go - Map"
 date = "2013-04-18T16:55:00"
 tags = ["go"]
+categories = ["learning"]
 +++
 
 这篇文章主要介绍Go中Map的相关内容，主要包括以下几部分：

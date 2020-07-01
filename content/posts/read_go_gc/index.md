@@ -2,6 +2,7 @@
 title = "Read Go - GC"
 date = "2013-04-08T14:23:00"
 tags = ["go"]
+categories = ["learning"]
 +++
 
 这篇文章继上篇[Read Go - memory](/post?q=Read_Go_-_Memory),

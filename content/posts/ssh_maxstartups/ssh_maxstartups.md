@@ -2,6 +2,7 @@
 title = "ssh MaxStartups"
 date = "2016-09-20T15:00:00"
 tags = [ "linux", "concurrency" ]
+categories = ["learning"]
 +++
 
 ## background

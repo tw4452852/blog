@@ -2,6 +2,7 @@
 title = "DRM Memory Ranger Allocator"
 date = "2014-12-14T16:06:00"
 tags = ["linux", "kernel", "drm", "gfx"]
+categories = ["work"]
 +++
 
 ## 基本概念

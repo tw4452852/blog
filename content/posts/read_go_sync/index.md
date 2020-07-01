@@ -2,6 +2,7 @@
 title = "Read Go - Sync"
 date = "2013-06-06T15:00:00"
 tags = ["go"]
+categories = ["learning"]
 +++
 
 今天来说说Go中提供一些同步方法,主要有大家都熟悉的:

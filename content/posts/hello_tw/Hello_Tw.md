@@ -1,6 +1,8 @@
 +++
 title = "Hello Tw"
 date = "2012-12-04T00:00:00"
+tags = ["tw"]
+categories = ["life"]
 +++
 
 This is my blog that I used about two days to build it on [Heroku][heroku] cloud

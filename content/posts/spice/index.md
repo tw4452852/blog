@@ -2,6 +2,7 @@
 title = "Spice简介"
 date = "2015-07-09T13:00:00"
 tags = [ "QXL", "spice" ]
+categories = ["work"]
 +++
 
 ## 介绍

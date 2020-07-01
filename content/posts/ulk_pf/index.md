@@ -2,6 +2,7 @@
 title = "Page frame management"
 date = "2014-03-30T12:04:00"
 tags = [ "linux", "kernel" ]
+categories = ["learning"]
 +++
 
 ## 简介

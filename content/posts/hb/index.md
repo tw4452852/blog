@@ -2,6 +2,7 @@
 title = "[zz] The Happens-Before Relation"
 date = "2013-07-04T10:23:00"
 tags = ["multicore"]
+categories = ["learning"]
 +++
 
 [原文在此](http://preshing.com/20130702/the-happens-before-relation)

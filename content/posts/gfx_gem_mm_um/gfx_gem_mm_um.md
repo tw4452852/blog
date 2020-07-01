@@ -2,6 +2,7 @@
 title = "GEM Memory Address Management - User Mode"
 date = "2014-12-23T14:02:00"
 tags = [ "linux", "drm", "gfx", "i915", "gem"]
+categories = ["work"]
 +++
 
 ## 简介

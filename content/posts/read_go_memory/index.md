@@ -2,6 +2,7 @@
 title = "Read Go - Memory"
 date = "2013-03-27T23:02:00"
 tags = ["go"]
+categories = ["learning"]
 +++
 
 这篇主要介绍go源码的内存管理的部分。

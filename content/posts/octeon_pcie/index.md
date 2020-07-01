@@ -2,6 +2,7 @@
 title = "Octeon PCIE"
 date = "2013-03-07T09:00:00"
 tags = [ "cavium" ]
+categories = ["work"]
 +++
 
 ## 概述

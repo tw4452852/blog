@@ -2,6 +2,7 @@
 title = "[zz] Broadcast with linked channels"
 date = "2013-06-27T21:00:00"
 tags = ["go"]
+categories = ["learning"]
 +++
 
 [原文在此](http://rogpeppe.wordpress.com/2009/12/01/concurrent-idioms-1-broadcasting-values-in-go-with-linked-channels/)

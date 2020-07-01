@@ -2,6 +2,7 @@
 title = "Cyclictest worst case analysis"
 date = "2020-06-22T14:27:00"
 tags = ["linux", "profiling" ]
+categories = ["work"]
 +++
 
 ## Capture the worst case with ftrace enabled

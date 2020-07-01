@@ -2,6 +2,7 @@
 title = "Ring buffer design"
 date = "2015-04-26T16:49:00"
 tags = [ "linux", "kernel", "trace" ]
+categories = ["learning"]
 +++
 
 ## 简介

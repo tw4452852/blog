@@ -2,6 +2,7 @@
 title = "Read Revel - Router"
 date = "2012-12-05T22:00:00"
 tags = ["go"]
+categories = ["learning"]
 +++
 
 This blog is based on the [Revel web framework][revel_github], So I will

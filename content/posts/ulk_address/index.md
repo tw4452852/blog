@@ -2,6 +2,7 @@
 title = "Memory Addressing"
 date = "2014-01-01T20:00:00"
 tags = [ "linux", "kernel", "intel" ]
+categories = ["learning"]
 +++
 
 ## 简介

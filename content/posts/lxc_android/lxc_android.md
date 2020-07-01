@@ -2,6 +2,7 @@
 title = "LXC in Android"
 date = "2016-01-31T14:00:00"
 tags = [ "container", "lxc", "android" ]
+categories = ["work"]
 +++
 
 ## introduction

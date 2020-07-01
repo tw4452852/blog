@@ -2,6 +2,7 @@
 title = "Looking for a golang job"
 date = "2015-12-22T09:00:00"
 tags = ["go", "job"]
+categories = ["work"]
 +++
 
 Until now I have worked for about 4 years. And I have mainly worked as a

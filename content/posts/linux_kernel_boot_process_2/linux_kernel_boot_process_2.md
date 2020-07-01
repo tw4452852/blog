@@ -2,6 +2,7 @@
 title = "Linux kernel boot process - part 2"
 date = "2017-02-27T15:01:00"
 tags = [ "linux", "kernel" ]
+categories = ["learning"]
 +++
 
 ## background

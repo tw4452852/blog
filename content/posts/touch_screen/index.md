@@ -2,6 +2,7 @@
 title = "Linux Touch Screen driver"
 date = "2013-11-11T09:17:00"
 tags = [ "linux", "kernel", "driver" ]
+categories = ["learning"]
 +++
 
 ## 简介

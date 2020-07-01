@@ -2,6 +2,7 @@
 title = "Read Go - Split Stack"
 date = "2013-05-08T08:33:00"
 tags = ["go"]
+categories = ["learning"]
 +++
 
 如果大家对split stack还不是很清楚,

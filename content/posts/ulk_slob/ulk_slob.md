@@ -2,6 +2,7 @@
 title = "Memory Area Management - The Slob Allocator"
 date = "2014-07-24T22:00:00"
 tags = [ "linux", "kernel" ]
+categories = ["learning"]
 +++
 
 ## 简介

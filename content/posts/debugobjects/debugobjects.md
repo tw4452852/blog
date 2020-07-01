@@ -2,6 +2,7 @@
 title = "Debug objects framework"
 date = "2017-03-15T09:54:00"
 tags = ["linux", "kernel"]
+categories = ["learning"]
 +++
 
 ## background

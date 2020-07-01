@@ -2,6 +2,7 @@
 title = "Temporary kernel mapping"
 date = "2014-03-02T11:57:00"
 tags = [ "linux", "kernel" ]
+categories = ["learning"]
 +++
 
 ## 简介

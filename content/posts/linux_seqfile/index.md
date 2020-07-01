@@ -2,6 +2,7 @@
 title = "Sequential file"
 date = "2013-05-02T17:09:00"
 tags = ["kernel"]
+categories = ["learning"]
 +++
 
 今天在调试driver时，当查看一个proc文件时，碰到一个问题，

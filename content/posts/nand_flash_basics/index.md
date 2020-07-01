@@ -2,6 +2,7 @@
 title = "NAND Flash basics"
 date = "2018-08-16T08:53:00"
 tags = [ "HW", "flash" ]
+categories = ["work"]
 +++
 
 ## introduction

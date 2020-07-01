@@ -2,6 +2,7 @@
 title = "Noncontignous memory allocation"
 date = "2014-03-23T15:24:00"
 tags = [ "linux", "kernel" ]
+categories = ["learning"]
 +++
 
 ## 简介

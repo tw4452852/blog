@@ -2,6 +2,7 @@
 title = "[zz] The Go netpoller"
 date = "2013-09-12T14:25:00"
 tags = ["go"]
+categories = ["learning"]
 +++
 
 [原文在此](http://morsmachine.dk/netpoller)

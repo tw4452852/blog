@@ -2,6 +2,7 @@
 title = "Linux driver model"
 date = "2013-11-14T16:00:00"
 tags = ["linux", "kernel", "driver"]
+categories = ["learning"]
 +++
 
 ## 简介

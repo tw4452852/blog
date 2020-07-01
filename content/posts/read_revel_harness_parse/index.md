@@ -2,6 +2,7 @@
 title = "Read Revel - Harness(parse)"
 date = "2012-12-20T22:00:00"
 tags = ["go"]
+categories = ["learning"]
 +++
 
 If you ever used the revel, you will find that there is no main program in the first time.

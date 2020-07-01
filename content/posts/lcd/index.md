@@ -2,6 +2,7 @@
 title = "Linux LCD driver"
 date = "2013-11-08T14:33:00"
 tags = ["linux", "kernel", "driver"]
+categories = ["learning"]
 +++
 
 ## 简介

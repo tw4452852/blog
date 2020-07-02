@@ -25,6 +25,7 @@ googleAnalytics = "UA-49335644-1"
 useChineseFonts = true # for font Noto Serif etc.
 bannerFont = "fonts/Go-Regular" # custom your own font for the title.
 favicon = "/images/favicon.ico"
+env = "production" # for Google Analytics and DISQUS.
 
 [social]
 twitter="https://twitter.com/Totoroow"

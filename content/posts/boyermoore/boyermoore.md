@@ -1,9 +1,11 @@
-+++
-title = "[zz] Boyer-Moore"
-date = "2013-07-01T16:32:00"
-tags = ["algorithm"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-07-01T16:32:00
+tags:
+- algorithm
+title: '[zz] Boyer-Moore'
+---
 
 [原文在此](http://www.ruanyifeng.com/blog/2013/05/boyer-moore_string_search_algorithm.html)
 

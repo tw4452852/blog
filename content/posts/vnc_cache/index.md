@@ -1,9 +1,11 @@
-+++
-title = "RFB Caching"
-date = "2015-11-03T14:00:00"
-tags = [ "vnc" ]
-categories = ["work"]
-+++
+---
+categories:
+- work
+date: 2015-11-03T14:00:00
+tags:
+- vnc
+title: RFB Caching
+---
 
 ## Definitions
 

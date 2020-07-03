@@ -1,9 +1,12 @@
-+++
-title = "Looking for a golang job"
-date = "2015-12-22T09:00:00"
-tags = ["go", "job"]
-categories = ["work"]
-+++
+---
+categories:
+- work
+date: 2015-12-22T09:00:00
+tags:
+- go
+- job
+title: Looking for a golang job
+---
 
 Until now I have worked for about 4 years. And I have mainly worked as a
 platform driver engineer and I'm interested in how software control the hardware

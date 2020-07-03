@@ -1,9 +1,11 @@
-+++
-title = "Getaddrinfo bug on Android 64"
-date = "2017-02-22T11:18:00"
-tags = ["android"]
-categories = ["work"]
-+++
+---
+categories:
+- work
+date: 2017-02-22T11:18:00
+tags:
+- android
+title: Getaddrinfo bug on Android 64
+---
 
 ## background
 

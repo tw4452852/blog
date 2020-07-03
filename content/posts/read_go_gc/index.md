@@ -1,9 +1,11 @@
-+++
-title = "Read Go - GC"
-date = "2013-04-08T14:23:00"
-tags = ["go"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-04-08T14:23:00
+tags:
+- go
+title: Read Go - GC
+---
 
 这篇文章继上篇[Read Go - memory](/post?q=Read_Go_-_Memory),
 主要讲下垃圾回收的机制，过程中会涉及到go的type系统以及线程调度相关内容,

@@ -1,9 +1,11 @@
-+++
-title = "Read Go - Schedule"
-date = "2013-05-21T11:34:00"
-tags = ["go"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-05-21T11:34:00
+tags:
+- go
+title: Read Go - Schedule
+---
 
 今天主要说下Go中的schedule([这是设计文档][1]), 首先有一点必须明确:
 

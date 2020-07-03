@@ -1,9 +1,13 @@
-+++
-title = "MTD Subsystem"
-date = "2018-09-11T09:53:00"
-tags = [ "flash", "linux", "kernel" ]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2018-09-11T09:53:00
+tags:
+- flash
+- linux
+- kernel
+title: MTD Subsystem
+---
 
 ## introduction
 

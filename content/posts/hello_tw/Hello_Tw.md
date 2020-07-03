@@ -1,9 +1,11 @@
-+++
-title = "Hello Tw"
-date = "2012-12-04T00:00:00"
-tags = ["tw"]
-categories = ["life"]
-+++
+---
+categories:
+- life
+date: 2012-12-04T00:00:00
+tags:
+- tw
+title: Hello Tw
+---
 
 This is my blog that I used about two days to build it on [Heroku][heroku] cloud
 application platform.This blog system is based on the [revel][revel] which is very good

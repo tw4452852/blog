@@ -1,9 +1,11 @@
-+++
-title = "Read Revel - Harness(build)"
-date = "2012-12-23T22:00:00"
-tags = ["go"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2012-12-23T22:00:00
+tags:
+- go
+title: Read Revel - Harness(build)
+---
 
 After getting the source code information, we can build the code to generate the binary file.
 

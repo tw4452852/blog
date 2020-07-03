@@ -1,9 +1,11 @@
-+++
-title = "Read Go - Split Stack"
-date = "2013-05-08T08:33:00"
-tags = ["go"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-05-08T08:33:00
+tags:
+- go
+title: Read Go - Split Stack
+---
 
 如果大家对split stack还不是很清楚,
 这里有一篇[介绍文档](http://gcc.gnu.org/wiki/SplitStacks).

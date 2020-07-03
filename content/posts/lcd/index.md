@@ -1,9 +1,13 @@
-+++
-title = "Linux LCD driver"
-date = "2013-11-08T14:33:00"
-tags = ["linux", "kernel", "driver"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-11-08T14:33:00
+tags:
+- linux
+- kernel
+- driver
+title: Linux LCD driver
+---
 
 ## 简介
 

@@ -1,9 +1,12 @@
-+++
-title = "Linux kernel boot process - part 1"
-date = "2017-02-23T10:00:00"
-tags = [ "linux", "kernel" ]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2017-02-23T10:00:00
+tags:
+- linux
+- kernel
+title: Linux kernel boot process - part 1
+---
 
 ## 概述
 

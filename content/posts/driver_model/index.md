@@ -1,9 +1,13 @@
-+++
-title = "Linux driver model"
-date = "2013-11-14T16:00:00"
-tags = ["linux", "kernel", "driver"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-11-14T16:00:00
+tags:
+- linux
+- kernel
+- driver
+title: Linux driver model
+---
 
 ## 简介
 

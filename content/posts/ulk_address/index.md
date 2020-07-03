@@ -1,9 +1,13 @@
-+++
-title = "Memory Addressing"
-date = "2014-01-01T20:00:00"
-tags = [ "linux", "kernel", "intel" ]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2014-01-01T20:00:00
+tags:
+- linux
+- kernel
+- intel
+title: Memory Addressing
+---
 
 ## 简介
 

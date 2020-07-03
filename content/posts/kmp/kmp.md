@@ -1,9 +1,11 @@
-+++
-title = "[zz] KMP"
-date = "2013-07-01T02:13:00"
-tags = ["algorithm"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-07-01T02:13:00
+tags:
+- algorithm
+title: '[zz] KMP'
+---
 
 [原文在此](http://www.ruanyifeng.com/blog/2013/05/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm.html)
 

@@ -1,9 +1,11 @@
-+++
-title = "How to add vcs information into binary on Android"
-date = "2017-05-25T11:00:00"
-tags = ["android"]
-categories = ["work"]
-+++
+---
+categories:
+- work
+date: 2017-05-25T11:00:00
+tags:
+- android
+title: How to add vcs information into binary on Android
+---
 
 ## background
 

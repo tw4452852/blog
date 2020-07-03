@@ -1,9 +1,12 @@
-+++
-title = "ssh MaxStartups"
-date = "2016-09-20T15:00:00"
-tags = [ "linux", "concurrency" ]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2016-09-20T15:00:00
+tags:
+- linux
+- concurrency
+title: ssh MaxStartups
+---
 
 ## background
 

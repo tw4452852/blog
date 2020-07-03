@@ -1,9 +1,11 @@
-+++
-title = "[zz] The Happens-Before Relation"
-date = "2013-07-04T10:23:00"
-tags = ["multicore"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-07-04T10:23:00
+tags:
+- multicore
+title: '[zz] The Happens-Before Relation'
+---
 
 [原文在此](http://preshing.com/20130702/the-happens-before-relation)
 

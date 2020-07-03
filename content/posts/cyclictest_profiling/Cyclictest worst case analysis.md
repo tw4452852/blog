@@ -1,9 +1,12 @@
-+++
-title = "Cyclictest worst case analysis"
-date = "2020-06-22T14:27:00"
-tags = ["linux", "profiling" ]
-categories = ["work"]
-+++
+---
+categories:
+- work
+date: 2020-06-22T14:27:00
+tags:
+- linux
+- profiling
+title: Cyclictest worst case analysis
+---
 
 ## Capture the worst case with ftrace enabled
 

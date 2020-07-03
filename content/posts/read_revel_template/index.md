@@ -1,9 +1,11 @@
-+++
-title = "Read Revel - Template"
-date = "2012-12-17T22:00:00"
-tags = ["go"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2012-12-17T22:00:00
+tags:
+- go
+title: Read Revel - Template
+---
 
 Did you ever remember the previous chapter. The template occurs many times.It almost handle all the
 html pages, such as errors, regular home page and so on.

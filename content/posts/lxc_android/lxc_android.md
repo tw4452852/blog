@@ -1,9 +1,13 @@
-+++
-title = "LXC in Android"
-date = "2016-01-31T14:00:00"
-tags = [ "container", "lxc", "android" ]
-categories = ["work"]
-+++
+---
+categories:
+- work
+date: 2016-01-31T14:00:00
+tags:
+- container
+- lxc
+- android
+title: LXC in Android
+---
 
 ## introduction
 

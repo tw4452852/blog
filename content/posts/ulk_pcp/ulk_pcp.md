@@ -1,9 +1,12 @@
-+++
-title = "The Per-CPU Page Frame Cache"
-date = "2014-06-08T14:05:00"
-tags = [ "linux", "kernel" ]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2014-06-08T14:05:00
+tags:
+- linux
+- kernel
+title: The Per-CPU Page Frame Cache
+---
 
 ## 简介
 

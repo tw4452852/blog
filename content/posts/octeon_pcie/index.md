@@ -1,9 +1,11 @@
-+++
-title = "Octeon PCIE"
-date = "2013-03-07T09:00:00"
-tags = [ "cavium" ]
-categories = ["work"]
-+++
+---
+categories:
+- work
+date: 2013-03-07T09:00:00
+tags:
+- cavium
+title: Octeon PCIE
+---
 
 ## 概述
 

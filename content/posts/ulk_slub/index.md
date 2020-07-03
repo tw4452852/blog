@@ -1,9 +1,12 @@
-+++
-title = "Memory Area Management - The Slub Allocator"
-date = "2014-10-16T13:00:00"
-tags = [ "linux", "kernel" ]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2014-10-16T13:00:00
+tags:
+- linux
+- kernel
+title: Memory Area Management - The Slub Allocator
+---
 
 ## 基本概念
 

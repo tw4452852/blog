@@ -1,9 +1,11 @@
-+++
-title = "Read Groupcache"
-date = "2013-08-02T10:00:00"
-tags = ["go"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-08-02T10:00:00
+tags:
+- go
+title: Read Groupcache
+---
 
 groupcache可以说是[memcached](http://en.wikipedia.org/wiki/Memcached)的替代品.
 

@@ -1,9 +1,12 @@
-+++
-title = "NAND Flash basics"
-date = "2018-08-16T08:53:00"
-tags = [ "HW", "flash" ]
-categories = ["work"]
-+++
+---
+categories:
+- work
+date: 2018-08-16T08:53:00
+tags:
+- HW
+- flash
+title: NAND Flash basics
+---
 
 ## introduction
 

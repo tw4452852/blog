@@ -1,9 +1,12 @@
-+++
-title = "Page frame management"
-date = "2014-03-30T12:04:00"
-tags = [ "linux", "kernel" ]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2014-03-30T12:04:00
+tags:
+- linux
+- kernel
+title: Page frame management
+---
 
 ## 简介
 

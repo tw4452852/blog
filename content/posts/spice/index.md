@@ -1,9 +1,12 @@
-+++
-title = "Spice简介"
-date = "2015-07-09T13:00:00"
-tags = [ "QXL", "spice" ]
-categories = ["work"]
-+++
+---
+categories:
+- work
+date: 2015-07-09T13:00:00
+tags:
+- QXL
+- spice
+title: Spice简介
+---
 
 ## 介绍
 

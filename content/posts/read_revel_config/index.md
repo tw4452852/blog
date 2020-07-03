@@ -1,9 +1,11 @@
-+++
-title = "Read Revel - Config"
-date = "2012-12-18T20:00:00"
-tags = ["go"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2012-12-18T20:00:00
+tags:
+- go
+title: Read Revel - Config
+---
 
 The application config file is named app.conf and uses the syntax accepted by
 [goconfig](https://github.com/revel/config), which is similar to Microsoft INI files.

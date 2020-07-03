@@ -1,9 +1,11 @@
-+++
-title = "Read Go - Memory"
-date = "2013-03-27T23:02:00"
-tags = ["go"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-03-27T23:02:00
+tags:
+- go
+title: Read Go - Memory
+---
 
 这篇主要介绍go源码的内存管理的部分。
 go的内存管理主要是借鉴了[tcmalloc](http://goog-perftools.sourceforge.net/doc/tcmalloc.html)。

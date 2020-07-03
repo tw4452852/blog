@@ -1,9 +1,12 @@
-+++
-title = "Memory Area Management - The Slab Allocator"
-date = "2014-07-14T13:00:00"
-tags = [ "linux", "kernel" ]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2014-07-14T13:00:00
+tags:
+- linux
+- kernel
+title: Memory Area Management - The Slab Allocator
+---
 
 ## 简介
 

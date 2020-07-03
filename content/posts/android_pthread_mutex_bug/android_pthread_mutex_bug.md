@@ -1,9 +1,12 @@
-+++
-title = "A bug related with Android pthread mutex"
-date = "2016-09-14T14:00:00"
-tags = ["android", "pthread"]
-categories = ["work"]
-+++
+---
+categories:
+- work
+date: 2016-09-14T14:00:00
+tags:
+- android
+- pthread
+title: A bug related with Android pthread mutex
+---
 
 ## 概述
 

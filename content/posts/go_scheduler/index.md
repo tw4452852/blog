@@ -1,9 +1,11 @@
-+++
-title = "[zz] The Go scheduler"
-date = "2013-09-04T16:54:00"
-tags = ["go"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-09-04T16:54:00
+tags:
+- go
+title: '[zz] The Go scheduler'
+---
 
 [原文在此](http://morsmachine.dk/go-scheduler)
 

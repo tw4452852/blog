@@ -1,9 +1,11 @@
-+++
-title = "Read Revel - Result"
-date = "2012-12-10T22:00:00"
-tags = ["go"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2012-12-10T22:00:00
+tags:
+- go
+title: Read Revel - Result
+---
 
 Following the previous chapter, we continue to talk about kinds of Result that revel has
 accomplished.

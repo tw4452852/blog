@@ -1,9 +1,13 @@
-+++
-title = "Linux kernel i2c subsystem"
-date = "2018-01-24T09:00:00"
-tags = ["linux", "kernel", "i2c"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2018-01-24T09:00:00
+tags:
+- linux
+- kernel
+- i2c
+title: Linux kernel i2c subsystem
+---
 
 ## introduction
 

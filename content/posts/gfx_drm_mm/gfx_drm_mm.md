@@ -1,9 +1,14 @@
-+++
-title = "DRM Memory Ranger Allocator"
-date = "2014-12-14T16:06:00"
-tags = ["linux", "kernel", "drm", "gfx"]
-categories = ["work"]
-+++
+---
+categories:
+- work
+date: 2014-12-14T16:06:00
+tags:
+- linux
+- kernel
+- drm
+- gfx
+title: DRM Memory Ranger Allocator
+---
 
 ## 基本概念
 

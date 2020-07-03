@@ -1,9 +1,11 @@
-+++
-title = "Channel As Semaphore"
-date = "2013-03-07T14:00:00"
-tags = ["go"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-03-07T14:00:00
+tags:
+- go
+title: Channel As Semaphore
+---
 
 今天看到golang-dev一个关于将channel用于semaphore的讨论(附[链接](https://groups.google.com/d/topic/golang-dev/ShqsqvCzkWg/discussion)).
 通常的方法如下：

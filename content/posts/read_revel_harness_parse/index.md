@@ -1,9 +1,11 @@
-+++
-title = "Read Revel - Harness(parse)"
-date = "2012-12-20T22:00:00"
-tags = ["go"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2012-12-20T22:00:00
+tags:
+- go
+title: Read Revel - Harness(parse)
+---
 
 If you ever used the revel, you will find that there is no main program in the first time.
 But once you have inputed cmd `revel run /path/to/app`, you will find there is a `main.go` in

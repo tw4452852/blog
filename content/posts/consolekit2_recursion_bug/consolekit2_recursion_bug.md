@@ -1,9 +1,12 @@
-+++
-title = "A memory corruption bug in ConsoleKit2"
-date = "2016-09-21T15:00:00"
-tags = ["linux", "concurrency"]
-categories = ["OSS"]
-+++
+---
+categories:
+- OSS
+date: 2016-09-21T15:00:00
+tags:
+- linux
+- concurrency
+title: A memory corruption bug in ConsoleKit2
+---
 
 ## background
 

@@ -1,9 +1,16 @@
-+++
-title = "GEM Memory Address Management - Kernel Mode"
-date = "2014-12-22T10:44:00"
-tags = [ "linux", "kernel", "drm", "gfx", "i915", "gem"]
-categories = ["work"]
-+++
+---
+categories:
+- work
+date: 2014-12-22T10:44:00
+tags:
+- linux
+- kernel
+- drm
+- gfx
+- i915
+- gem
+title: GEM Memory Address Management - Kernel Mode
+---
 
 ## 简介
 

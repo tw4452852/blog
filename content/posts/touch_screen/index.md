@@ -1,9 +1,13 @@
-+++
-title = "Linux Touch Screen driver"
-date = "2013-11-11T09:17:00"
-tags = [ "linux", "kernel", "driver" ]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-11-11T09:17:00
+tags:
+- linux
+- kernel
+- driver
+title: Linux Touch Screen driver
+---
 
 ## 简介
 

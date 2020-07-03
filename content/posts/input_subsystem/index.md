@@ -1,9 +1,13 @@
-+++
-title = "Linux input subsystem"
-date = "2013-11-12T10:00:00"
-tags = [ "linux", "kernel", "driver" ]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-11-12T10:00:00
+tags:
+- linux
+- kernel
+- driver
+title: Linux input subsystem
+---
 
 ## 简介
 

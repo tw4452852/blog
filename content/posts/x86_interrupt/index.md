@@ -1,9 +1,11 @@
-+++
-title = "x86 interrupt initialization"
-date = "2013-09-09T22:00:00"
-tags = ["intel"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-09-09T22:00:00
+tags:
+- intel
+title: x86 interrupt initialization
+---
 
 这几天在bochs上动手实践了一下中断初始化,
 和之前使用PIC不同,这次使用的APIC,

@@ -1,9 +1,12 @@
-+++
-title = "Kernel address space layout randomization"
-date = "2017-03-13T14:20:00"
-tags = [ "linux", "kernel" ]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2017-03-13T14:20:00
+tags:
+- linux
+- kernel
+title: Kernel address space layout randomization
+---
 
 ## background
 

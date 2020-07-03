@@ -1,9 +1,11 @@
-+++
-title = "[译] Understanding the Go Memory Model"
-date = "2013-05-30T22:00:00"
-tags = ["go"]
-categories = ["learning"]
-+++
+---
+categories:
+- learning
+date: 2013-05-30T22:00:00
+tags:
+- go
+title: '[译] Understanding the Go Memory Model'
+---
 
 [原文在此](https://docs.google.com/document/d/163LwGViH_RSv5YEHmwixBJEjOOi3LYJbMhKY7sq3z1Q/edit?usp=sharing)
 

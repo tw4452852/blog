@@ -2,4 +2,15 @@ blog.totorow.xyz {
   root public
   encode gzip
   file_server
+  handle_errors {
+	rewrite * /404.html
+	request_header caddy_status_code {http.error.status_code}
+	request_header caddy_status_text {http.error.status_text}
+	request_header caddy_error_message {http.error.message}
+	request_header caddy_error_trace {http.error.trace}
+	templates {
+	  between "[[" "]]"
+	}
+	file_server
+  }
 }

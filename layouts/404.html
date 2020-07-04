@@ -2,8 +2,8 @@
 {{ define "main" }}
 <article>
 	<h1>
-		Oops!
+		Oops {{ safeHTML "[[.Req.Header.Get \"caddy_status_code\"]]([[.Req.Header.Get \"caddy_status_text\"]])" }}!
 	</h1>
-	<div class="pt-4">404 not found.</div>
+	<div class="pt-4">{{ safeHTML "[[.Req.Header.Get \"caddy_error_trace\"]]:[[.Req.Header.Get \"caddy_error_message\"]]" }}</div>
 </article>
 {{ end }}

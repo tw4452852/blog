@@ -1,6 +1,6 @@
 ---
 categories:
-- learning
+- Read Go
 date: 2013-03-27T23:02:00
 tags:
 - go

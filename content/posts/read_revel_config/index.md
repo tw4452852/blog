@@ -1,6 +1,6 @@
 ---
 categories:
-- learning
+- Read Revel
 date: 2012-12-18T20:00:00
 tags:
 - go

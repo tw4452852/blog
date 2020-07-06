@@ -1,6 +1,6 @@
 ---
 categories:
-- learning
+- Understand Linux Kernel
 date: 2017-03-13T14:20:00
 tags:
 - linux

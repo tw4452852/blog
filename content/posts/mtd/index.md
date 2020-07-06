@@ -1,6 +1,6 @@
 ---
 categories:
-- learning
+- Understand Linux Kernel
 date: 2018-09-11T09:53:00
 tags:
 - flash
